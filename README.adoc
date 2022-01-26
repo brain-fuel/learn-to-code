@@ -1,2 +1,3 @@
 = Learn to Code from the Ground Up
+
 Join with me and learn to code! I'm not going to make any silly promises that it's going to be easy; all I'm going to promise is that you will learn to program the right way! You do not need to have any coding experience to join along. This course takes you from being a complete beginner to developing professional quality programs one step at a time.
