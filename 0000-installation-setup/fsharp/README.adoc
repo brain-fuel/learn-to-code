@@ -4,10 +4,19 @@
 
 https://fsharp.org[The F# website homepage] has a 'Use' link on how to set up your development environment. It is available for Mac, Linux, or Windows. Whichever platform you are using, select the option to 'Install the CLI tools and use your own editor'
 
-== Install Additional Tools
+== Setup Doom Emacs
 
 In order to not have a miserable time writing, running, and testing your code, I recommend setting yourself up with another tool: Doom Emacs. All this will take some getting used to, but a short while in you will eclipse all the other newbies who didn't bother to learn this super-powerful tool!
 
 === Install Doom Emacs
 
-=== Setup Doom Emacs for F# development
+=== Configure Doom Emacs for F# development
+
+== Learn the Basics of Doom Emacs
+
+=== Evil-tutor: A port of vimtutor for Emacs evil-mode
+
+=== A useful crash course in how to use Doom Emacs
+
+=== More resources on Emacs and Doom Emacs
+
