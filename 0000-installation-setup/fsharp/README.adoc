@@ -8,6 +8,6 @@ https://fsharp.org[The F# website homepage] has a 'Use' link on how to set up yo
 
 In order to not have a miserable time writing, running, and testing your code, I recommend setting yourself up with another tool: Doom Emacs. All this will take some getting used to, but a short while in you will eclipse all the other newbies who didn't bother to learn this super-powerful tool!
 
-=== Doom Emacs
+=== Install Doom Emacs
 
-=== F# Setup in Doom Emacs
+=== Setup Doom Emacs for F# development
