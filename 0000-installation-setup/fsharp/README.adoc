@@ -1,3 +1,11 @@
 = Installation & Setup
 
-I'm not going to belabor this point. https://fsharp.org[The F# website homepage] has a 'Use' link on how to set up your development environment. It is available for Mac, Linux, or Windows. Whichever platform you are using, select the option to 'Install the CLI tools and use your own editor'
+== Install F#
+
+https://fsharp.org[The F# website homepage] has a 'Use' link on how to set up your development environment. It is available for Mac, Linux, or Windows. Whichever platform you are using, select the option to 'Install the CLI tools and use your own editor'
+
+== Install Additional Tools
+
+=== Doom Emacs
+
+=== F# Setup in Doom Emacs
