@@ -1,0 +1,25 @@
+= Your First Program
+
+== Getting your feet wet: REPL-Driven Development
+
+In order to develop as well as we can, we can use a framework called "Explore, Specify, Write, Assess", or ESWA. Firstly, we explore to get an idea of what we want to do; Secondly, once we get an idea of what is possible and what we want, we very clearly specify what we intend for our program to do; Thirdly, we write the code that fulfills our specifications; Finally, we analyze our code to make sure that we got what we want.
+
+=== Explore
+
+We are starting from the very beginning, but we are going to make sure that we do everything professionally. As the saying goes, 'You can do it right, or you can do it twice'. I prefer doing things right, so that's what I'm going to teach you. First we explore by playing around in the REPL
+
+=== Specify
+
+How do you know that your program works? It passes all the tests; that's how! Test cases are integral to proving to the folks who run your program that it works. That is why, no matter how simple the program, in this course, we will be writing tests.
+
+Tests always come before code! The reason for this is that 
+
+<Failing test goes here>
+
+<Run failing test>
+
+Now that we've run a test and it's failed, it's time to write the code to make the test pass.
+
+=== Write
+
+Now that you've written a test
